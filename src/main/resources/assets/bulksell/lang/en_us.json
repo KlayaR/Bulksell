@@ -1,0 +1,6 @@
+{
+  "screen.bulksell.title": "Bulk Sell",
+  "screen.bulksell.sell_all": "Sell All Supported",
+  "screen.bulksell.instructions": "This will sell all supported items in your inventory.",
+  "message.bulksell.sold": "Sold items for %s emerald(s)."
+}
